@@ -1,0 +1,21 @@
+tr.first {
+    background: #FFD700;
+
+}
+tr.first:hover td, tr.first:hover th {
+    background: #FFD700;
+}
+
+tr.second {
+    background: #C0C0C0;
+}
+tr.second:hover td, tr.second:hover th {
+    background: #C0C0C0;
+}
+
+tr.third {
+    background: #FF8C00;
+}
+tr.third:hover td, tr.third:hover th {
+    background: #FF8C00;
+}
