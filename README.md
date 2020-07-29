@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is designed with React.js to create a leaderboard app for hosting your own tournaments. It is currently in it's early stages and will be developed over time.
 
 ## Available Scripts
 
